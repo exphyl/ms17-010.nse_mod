@@ -1,6 +1,8 @@
 # All that stuff that should go on the top
 Name: smb-vuln-ms17-010.nse 
+
 Desc: A modified version of the smb-vuln-ms17-010.nse to work with lua 5.2 and nmap 6.4
+
 Source: https://github.com/cldrn/nmap-nse-scripts/blob/master/scripts/smb-vuln-ms17-010.nse
 
 # Why This Exists:
