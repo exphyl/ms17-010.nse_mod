@@ -1,5 +1,5 @@
-I was frustrated with the version out there not working with lower versions of Lau and Nmap... 
+I just modified someone elses code, make sure you give them the credit they deserve and don't pawn this off as your own... 
 
-I found this script here: https://github.com/cldrn/nmap-nse-scripts/blob/master/scripts/smb-vuln-ms17-010.nse
+Link to the original file: https://github.com/cldrn/nmap-nse-scripts/blob/master/scripts/smb-vuln-ms17-010.nse
 
-Just don't be a dick.
+We're all just trying to make the world a better place so keep on doing that and share your knowledge.
